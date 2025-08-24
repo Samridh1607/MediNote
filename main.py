@@ -30,7 +30,7 @@ class WelcomeScreen(Screen):
         
         # Welcome message
         welcome_msg = Label(
-            text='Your Medical Document Summarizer\nUpload PDF files to get summaries and flash questions',
+            text='Upload PDF files to get summaries and flash questions',
             font_size='18sp',
             size_hint=(1, 0.2),
             halign='center'
